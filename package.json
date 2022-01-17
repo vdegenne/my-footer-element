@@ -1,0 +1,6 @@
+{
+  "name": "@vdegenne/my-footer-element",
+  "version": "1.0",
+  "main": "my-footer-element.js",
+  "module": "my-footer-element.js"
+}
